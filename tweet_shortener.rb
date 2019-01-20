@@ -24,5 +24,5 @@ def word_substituter(string)
 end
 
 def bulk_tweet_shortener
-puts word_substituter(string)
+puts word_substituter
 end
